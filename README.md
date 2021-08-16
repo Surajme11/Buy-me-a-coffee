@@ -2,4 +2,4 @@
 
 Now you can buy me a coffee!
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="SurajMehta" data-description="Support me on Buy me a coffee!" data-message="Now you can buy me a coffee!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<a href="https://www.buymeacoffee.com/SurajMehta"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=SurajMehta&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
